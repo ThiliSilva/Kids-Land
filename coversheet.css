@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+a
+{
+	text-decoration: none;
+	color:navy;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 25px
+}
+p
+{
+	text-align:center;
+	color:cornsilk;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 25px
+}
+.btn-submit
+{
+	background-color:cadetblue;
+	
+}
+.form-group
+{
+	text-align: left;
+}
+h2
+{
+	color: goldenrod;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+
+
